@@ -1,0 +1,24 @@
+Time program ran for is 6078 ms
+	Process with ID 1000 was in the ready queue with an average of 70.083333 ms, max of 131 ms, and a min of 0 ms
+		it spent an average of 76.454545 ms, max of 131 ms, and min of 0 ms on IO responsiveness
+	Process with ID 1001 was in the ready queue with an average of 46.176471 ms, max of 90 ms, and a min of 0 ms
+		it spent an average of 44.411765 ms, max of 90 ms, and min of 0 ms on IO responsiveness
+	Process with ID 1002 was in the ready queue with an average of 1586.000000 ms, max of 2613 ms, and a min of 80 ms
+		process didn't do any IO waiting
+	Process with ID 1003 was in the ready queue with an average of 74.307692 ms, max of 161 ms, and a min of 0 ms
+		it spent an average of 67.083333 ms, max of 152 ms, and min of 0 ms on IO responsiveness
+	Process with ID 1004 was in the ready queue with an average of 92.000000 ms, max of 171 ms, and a min of 10 ms
+		it spent an average of 87.083333 ms, max of 171 ms, and min of 10 ms on IO responsiveness
+	Process with ID 1005 was in the ready queue with an average of 192.500000 ms, max of 746 ms, and a min of 0 ms
+		it spent an average of 173.200000 ms, max of 514 ms, and min of 30 ms on IO responsiveness
+	Process with ID 1006 was in the ready queue with an average of 69.928571 ms, max of 131 ms, and a min of 21 ms
+		it spent an average of 63.428571 ms, max of 131 ms, and min of 21 ms on IO responsiveness
+	Process with ID 1007 was in the ready queue with an average of 1588.500000 ms, max of 3127 ms, and a min of 50 ms
+		process didn't do any IO waiting
+	Process with ID 1008 was in the ready queue with an average of 141.500000 ms, max of 403 ms, and a min of 10 ms
+		it spent an average of 101.200000 ms, max of 266 ms, and min of 10 ms on IO responsiveness
+	Process with ID 1009 was in the ready queue with an average of 1065.000000 ms, max of 2130 ms, and a min of 0 ms
+		process didn't do any IO waiting
+	Process with ID 1010 was in the ready queue with an average of 181.500000 ms, max of 363 ms, and a min of 0 ms
+		process didn't do any IO waiting
+Time program spent on scheduler overheads is 1374 ms

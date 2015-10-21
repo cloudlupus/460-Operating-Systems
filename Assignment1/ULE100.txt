@@ -1,0 +1,37 @@
+Time program ran for is 7171 ms
+	Process with ID 1000 was in the ready queue with an average of 383.500000 ms, max of 634 ms, and a min of 0 ms
+		process didn't do any IO waiting
+	Process with ID 1001 was in the ready queue with an average of 310.375000 ms, max of 564 ms, and a min of 110 ms
+		it spent an average of 172.000000 ms, max of 172 ms, and min of 172 ms on IO responsiveness
+	Process with ID 1002 was in the ready queue with an average of 205.500000 ms, max of 403 ms, and a min of 50 ms
+		it spent an average of 187.083333 ms, max of 403 ms, and min of 50 ms on IO responsiveness
+	Process with ID 1003 was in the ready queue with an average of 169.571429 ms, max of 377 ms, and a min of 0 ms
+		it spent an average of 182.615385 ms, max of 377 ms, and min of 0 ms on IO responsiveness
+	Process with ID 1004 was in the ready queue with an average of 178.333333 ms, max of 313 ms, and a min of 0 ms
+		process didn't do any IO waiting
+	Process with ID 1005 was in the ready queue with an average of 278.666667 ms, max of 534 ms, and a min of 0 ms
+		it spent an average of 302.000000 ms, max of 302 ms, and min of 302 ms on IO responsiveness
+	Process with ID 1006 was in the ready queue with an average of 180.909091 ms, max of 343 ms, and a min of 0 ms
+		it spent an average of 180.909091 ms, max of 343 ms, and min of 40 ms on IO responsiveness
+	Process with ID 1007 was in the ready queue with an average of 172.000000 ms, max of 433 ms, and a min of 0 ms
+		it spent an average of 172.000000 ms, max of 433 ms, and min of 30 ms on IO responsiveness
+	Process with ID 1008 was in the ready queue with an average of 292.714286 ms, max of 534 ms, and a min of 0 ms
+		it spent an average of 232.000000 ms, max of 313 ms, and min of 151 ms on IO responsiveness
+	Process with ID 1009 was in the ready queue with an average of 277.000000 ms, max of 333 ms, and a min of 221 ms
+		process didn't do any IO waiting
+	Process with ID 1010 was in the ready queue with an average of 393.800000 ms, max of 574 ms, and a min of 121 ms
+		process didn't do any IO waiting
+	Process with ID 1011 was in the ready queue with an average of 485.666667 ms, max of 957 ms, and a min of 171 ms
+		process didn't do any IO waiting
+	Process with ID 1012 was in the ready queue with an average of 284.166667 ms, max of 477 ms, and a min of 0 ms
+		it spent an average of 171.000000 ms, max of 171 ms, and min of 171 ms on IO responsiveness
+	Process with ID 1013 was in the ready queue with an average of 86.000000 ms, max of 131 ms, and a min of 41 ms
+		it spent an average of 65.500000 ms, max of 131 ms, and min of 131 ms on IO responsiveness
+	Process with ID 1014 was in the ready queue with an average of 327.000000 ms, max of 594 ms, and a min of 60 ms
+		process didn't do any IO waiting
+	Process with ID 1015 was in the ready queue with an average of 0.000000 ms, max of 0 ms, and a min of 0 ms
+		it spent an average of 0.000000 ms, max of 0 ms, and min of 0 ms on IO responsiveness
+	Process with ID 1016 was in the ready queue with an average of 0.000000 ms, max of 0 ms, and a min of 0 ms
+		process didn't do any IO waiting
+	Process with PID 1017 was never dispatched
+Time program spent on scheduler overheads is 1338 ms
